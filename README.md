@@ -60,9 +60,16 @@ Full Stack Development
 ---
 
 ### 📊 GitHub Stats
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NoaTzuberi&show_icons=true&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoaTzuberi&layout=compact&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NoaTzuberi&show_icons=true&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoaTzuberi&layout=compact&hide_border=true"
+    height="170"
+  />
 </p>
 ---
 
