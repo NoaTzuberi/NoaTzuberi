@@ -15,7 +15,9 @@ I'm constantly learning, building, and exploring new technologies — from moder
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -52,15 +54,15 @@ A full-stack application for managing work shifts, working hours, salary calcula
 - 🧩 Built with **React, TypeScript, Vite, Node.js, Supabase, Context API, and CSS Modules**.
 
 🔗 **[View Repository →](https://github.com/NoaTzuberi/ORAS)** · **[Live Demo →](https://oras-o7w7.onrender.com)**
-  
-###🎓 Education
-Technion – Israel Institute of Technology
+
+## 🎓 Education
+**Technion – Israel Institute of Technology**  
 
 Full Stack Development
 
 ---
 
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 <p>
   <a href="https://github.com/NoaTzuberi">
     <img src="https://img.shields.io/badge/GitHub-NoaTzuberi-181717?style=for-the-badge&logo=github&logoColor=white" />
