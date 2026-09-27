@@ -5,7 +5,8 @@ I'm a Full Stack Developer with a strong passion for Frontend development and cr
 
 I enjoy turning ideas into polished interfaces while building the backend systems and logic behind them. I'm especially interested in creating products where design, user experience, and functionality come together.
 
-I'm constantly learning, building, and exploring new technologies from modern frontend experiences to backend architecture and AI-powered features.
+I'm constantly learning, building, and exploring new technologies — from modern frontend experiences to backend architecture and AI-powered features.
+
 ---
 ### 🛠 My Tech Stack
 
@@ -57,20 +58,6 @@ Technion – Israel Institute of Technology
 
 Full Stack Development
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=NoaTzuberi&show_icons=true&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoaTzuberi&layout=compact&hide_border=true"
-    height="170"
-  />
-</p>
 ---
 
 ### 📫 Let's Connect!
