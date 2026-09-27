@@ -1,6 +1,6 @@
 # Hi there, I'm Noa 👋
 
-### 🚀 Full Stack Development Student @ Technion
+### 🚀 Full Stack Developmer @ Technion
 Passionate about building web applications, solving problems, and learning new technologies every day.
 
 ---
