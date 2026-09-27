@@ -1,8 +1,11 @@
 # Hi there, I'm Noa 👋
 
-### 🚀 Full Stack Developmer @ Technion
-Passionate about building web applications, solving problems, and learning new technologies every day.
+### 🚀 Full Stack Developer
+I'm a Full Stack Developer with a strong passion for Frontend development and creating modern, responsive, and engaging web experiences.
 
+I enjoy turning ideas into polished interfaces while building the backend systems and logic behind them. I'm especially interested in creating products where design, user experience, and functionality come together.
+
+I'm constantly learning, building, and exploring new technologies from modern frontend experiences to backend architecture and AI-powered features.
 ---
 ### 🛠 My Tech Stack
 
@@ -22,16 +25,53 @@ Passionate about building web applications, solving problems, and learning new t
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
 
-### 🔭 What I'm working on
-- 🏗️ **Main Project:** Developing a full-scale web application (Work in progress).
-- 🎓 **Technion Assignments:** Implementing core concepts in Frontend and Backend.
+## 🚀 Featured Projects
+
+### 🏋️ ATLAS — Full Stack Fitness Platform
+
+A full-stack fitness platform for planning workouts, tracking progress, and learning proper exercise technique, with an AI Coach that adapts to each user's training context.
+
+- 🤖 **AI Coach** powered by Gemini with persistent conversations and RAG-based training knowledge.
+- 🏋️ **Personalized training system** with onboarding, custom workout creation, exercise history, workout execution, and progress tracking.
+- 📊 **Gamified dashboard** with streaks, milestones, achievements, and automatic personal-record detection.
+- 🧩 Built with **React, TypeScript, Node.js, Express, MongoDB, GSAP, and Gemini API**.
+
+🔗 **[View Repository →](https://github.com/NoaTzuberi/ATLAS)**
+
+---
+
+### 💼 ORAS — Shift & Salary Management Platform
+
+A full-stack application for managing work shifts, working hours, salary calculations, and monthly income. The platform is currently used by active users.
+
+- 🕒 Flexible shift tracking with hourly, manual, and daily salary entries.
+- 💰 Automatic calculation of working hours, gross/net income, average hourly wage, and tax-related deductions.
+- 📊 Interactive dashboard that brings monthly working and financial data into one place.
+- 🌍 Multi-language support with a responsive desktop-first interface.
+- 🧩 Built with **React, TypeScript, Vite, Node.js, Supabase, Context API, and CSS Modules**.
+
+🔗 **[View Repository →](https://github.com/NoaTzuberi/ORAS)** · **[Live Demo →](https://oras-o7w7.onrender.com)**
+  
+###🎓 Education
+Technion – Israel Institute of Technology
+
+Full Stack Development
 
 ---
 
 ### 📊 GitHub Stats
-![Noa's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoaTzuberi&show_icons=true&theme=radical)
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=NoaTzuberi&show_icons=true&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoaTzuberi&layout=compact&hide_border=true" height="170"/>
+</p>
 ---
 
 ### 📫 Let's Connect!
-- [LinkedIn](קישור-לפרופיל-שלך-כאן)
+<p>
+  <a href="https://github.com/NoaTzuberi">
+    <img src="https://img.shields.io/badge/GitHub-NoaTzuberi-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/noa-tzuberi-785a73229">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
